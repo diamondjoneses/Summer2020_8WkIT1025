@@ -15,6 +15,10 @@ d. What is the difference between 64 and 32 bit data paths?
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
 
+## Logic Gates and circuits
+* Explain what is meant by a truth table and apply your knowledge to a NAND gate.  
+* How does the NAND gate truth table compare to that of an AND gate? 
+
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
 
