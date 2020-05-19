@@ -4,10 +4,10 @@ Summarize this assignment and the goal of this lab
 
 # Hardware
 ## Hard Drives and Memory
-a. What is the difference between latency and transfer rates in the performance of a hard drive?
-b. How a solid state (SSD) hard drive is different from a traditional hard drive?
-c. Why does increasing RAM make the computer run faster?
-d. What is the difference between 64 and 32 bit data paths?
+* What is the difference between latency and transfer rates in the performance of a hard drive?
+* How a solid state (SSD) hard drive is different from a traditional hard drive?
+* Why does increasing RAM make the computer run faster?
+* What is the difference between 64 and 32 bit data paths?
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
