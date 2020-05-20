@@ -12,4 +12,4 @@ Type your executive summary as if you were explaining your lab on an IT team
 * Why is GitHub considered "Cloud Computing?" What other "cloud computing" environments do you use?
 
 # Conclusion
-In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components. 
+In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components.
