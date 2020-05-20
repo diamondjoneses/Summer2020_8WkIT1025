@@ -5,12 +5,15 @@ Write up as though you are explaining this week's lab to others.
 
 # Software
 * Explain the roles of application, utility and operating system software.  Give an example of each.  
-* Explain the purpose of ERP software and provide an example.  
+* Explain the purpose of ERP software and provide an uexample.  
 * Explain the purpose of virtualization and describe how it differs from cloud computing. 
+# Python
+* Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
 
 # Virtualization
 * What types of problems are solved with virtualization? 
 * What role does hypervisor play in virtualization? 
+
 
 # Career Exploration
 ## Career Exploration
