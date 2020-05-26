@@ -16,15 +16,17 @@ Share your experience using Lucidchart in a paragraph (3-4 lines)
 # Networking
 ## Intro to Networking
 Data Transmission
-Match the following words with their definitions Words:
 
+Match the following words with their definitions 
+
+Words:
 Packet
 Packet-Switching
 IP Address
 DNS
 Protocol
-Definitions to match:
 
+Definitions to match:
 Set of rules to allow devices to communicate
 Unit of data
 Unique identifying number
