@@ -36,6 +36,10 @@ d) The orders table would likely have a date field.  Explain why it is important
 * Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them
 a) which is the primary key?
 b) which is the foreign key?
+* Using W3Schools, try out a 
+a) select statement 
+a) where clause 
+and upload screenshots of the results.
 * Explain how SQL injections are a security threat and what can be done to reduce the issue. 
   
 # Ethical and Legal Implications of Information Systems
