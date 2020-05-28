@@ -41,7 +41,7 @@ Answer these questions
 
 * Explain how XML differs from HTML. 
 
-# URLs and FilePaths
+# URLs and File Paths
 * Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: 
 Terms: scheme, domain, top level domain, default page, parameters, anchor 
 Definitions/examples: .edu, no file path provided, result of search, https, www.amazon.com, specific location on a page. 
