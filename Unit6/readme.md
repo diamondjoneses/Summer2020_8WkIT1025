@@ -41,5 +41,14 @@ Answer these questions
 
 * Explain how XML differs from HTML. 
 
+# URLs and FilePaths
+* Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: 
+Terms: scheme, domain, top level domain, default page, parameters, anchor 
+Definitions/examples: .edu, no file path provided, result of search, https, www.amazon.com, specific location on a page. 
+
+* What is your understanding of difference between Absolute and Relative File Paths. What would you use in your website? Why?
+
+* Explain the purpose and use of file compression.
+
 # Conclusion
 Include your conclusion here...
